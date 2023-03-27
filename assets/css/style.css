@@ -1,0 +1,24 @@
+* {
+  font-family: sans-serif;
+}
+
+.container {
+  display: flexbox;
+  justify-content: center;
+  padding: 15px;
+  margin: 15px;
+  margin: 30px auto;
+  width: 1000px;
+  /* background-color: aqua;*/
+}
+
+.content1 {
+  padding: 15px;
+  margin: 15px;
+}
+
+.contact {
+  padding: 15px;
+  margin: 15px;
+}
+
